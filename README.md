@@ -1,9 +1,7 @@
 #  Limkokwing Library Management API
 # ALUSINE G DUMBUYA
 **PROG315 – Object-Oriented Programming 2**  
-**Assignment:** Basic API Structure with Open-Source  
-**Institution:** Limkokwing University of Creative Technology – Sierra Leone  
-**Semester:** 04 | March 2026 – July 2026
+# Semester 04
 
 ---
 

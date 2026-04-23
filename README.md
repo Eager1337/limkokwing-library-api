@@ -95,8 +95,4 @@ This project aligns with **UN Sustainable Development Goal 4 – Quality Educati
 
 
 
----
 
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).

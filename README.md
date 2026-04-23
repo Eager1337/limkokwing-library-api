@@ -1,4 +1,4 @@
-# 📚 Limkokwing Library Management API
+#  Limkokwing Library Management API
 
 **PROG315 – Object-Oriented Programming 2**  
 **Assignment:** Basic API Structure with Open-Source  
@@ -7,25 +7,25 @@
 
 ---
 
-## 📌 Project Description
+##  Project Description
 
 A RESTful API built with **Python FastAPI** for managing the Limkokwing University Sierra Leone Library. The system allows users to search for books, borrow and return them, and track overdue fines — all with support for multiple concurrent users via asynchronous programming.
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 🔍 Search books by title, author, or category
-- 📖 Borrow available books (with 14-day loan period)
-- 🔁 Return books and calculate overdue fines
-- ⚠️ View all overdue books and outstanding fines
-- 🔢 Retrieve a single book by ID
-- ⚡ Async/await support for handling multiple users simultaneously
-- ✅ Full type annotations with Pydantic models
+-  Search books by title, author, or category
+-  Borrow available books (with 14-day loan period)
+-  Return books and calculate overdue fines
+-  View all overdue books and outstanding fines
+-  Retrieve a single book by ID
+-  Async/await support for handling multiple users simultaneously
+-  Full type annotations with Pydantic models
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Tool | Purpose |
 |------|---------|
@@ -37,7 +37,7 @@ A RESTful API built with **Python FastAPI** for managing the Limkokwing Universi
 
 ---
 
-## 📦 Installation & Setup
+##  Installation & Setup
 
 ```bash
 # 1. Clone the repository
@@ -57,7 +57,7 @@ uvicorn main:app --reload
 
 ---
 
-## 🔗 API Endpoints
+##  API Endpoints
 
 | Method | Endpoint | Description |
 |--------|----------|-------------|
@@ -69,7 +69,7 @@ uvicorn main:app --reload
 
 ---
 
-## 📖 API Documentation
+##  API Documentation
 
 Once the server is running, visit:
 
@@ -78,7 +78,7 @@ Once the server is running, visit:
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 limkokwing-library-api/
@@ -91,18 +91,11 @@ limkokwing-library-api/
 
 ---
 
-## 🌍 SDG Alignment
+##  SDG Alignment
 
 This project aligns with **UN Sustainable Development Goal 4 – Quality Education**, by digitizing library access and making educational resources more accessible to all students and staff.
 
----
 
-## 👤 Author
-
-- **Student Name:** [Your Full Name]  
-- **Student ID:** [Your Student ID]  
-- **Email:** [your.email@limkokwing.edu.sl]  
-- **GitHub:** [https://github.com/YOUR_USERNAME]
 
 ---
 
